@@ -39,5 +39,5 @@ for (let i = 0; i < n; i++) {
     }
 }
 
-print(maiorNumeroPar)
-print(menorNumeroImpar)
+print('Maior número par: ' + maiorNumeroPar)
+print('Menor número impar: ' + menorNumeroImpar)
